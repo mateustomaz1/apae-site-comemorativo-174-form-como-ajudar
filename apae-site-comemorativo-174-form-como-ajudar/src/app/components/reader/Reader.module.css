@@ -1,0 +1,21 @@
+.container {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+	border: 2px solid #ccc;
+}
+
+.audioTitle {
+    text-align: center;
+}
+
+.audioPlayer {
+    width: 100%; 
+    border-radius: 8px;
+    padding: 5px;
+}
